@@ -1,0 +1,17 @@
+{
+    "name": "ScriptableObjects",
+    "rootNamespace": "",
+    "references": [
+        "GUID:defe58b254a1b47b8a578cbf72081aec",
+        "GUID:4e207057e1bfb4ddfaddfe009f94b9b4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

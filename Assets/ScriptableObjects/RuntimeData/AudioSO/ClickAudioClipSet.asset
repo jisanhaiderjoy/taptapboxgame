@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e63b56f014b6141198c87f484edd7fee, type: 3}
+  m_Name: ClickAudioClipSet
+  m_EditorClassIdentifier: 
+  description: Mouse Click Audios
+  data:
+  - {fileID: 8300000, guid: ed68feae0307c481487ede390bfb507f, type: 3}
+  - {fileID: 8300000, guid: 46686be40685e4c46acfecd953191229, type: 3}
+  channelName_: {fileID: 11400000, guid: f00ecc8622f3242e3a51a2968f2a6612, type: 2}
